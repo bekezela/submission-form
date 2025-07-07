@@ -1,4 +1,4 @@
-#submission form
+
 I’m currently working on a submission form project with the aim of learning Vibe coding using Copilot AI in Visual Studio Code. 
 I'm exploring how to access and utilize its features effectively. 
 Copilot has been especially helpful for debugging and verifying that my code aligns with the project’s requirements. 
